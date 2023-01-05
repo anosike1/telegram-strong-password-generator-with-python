@@ -2,7 +2,7 @@ from telegram import *
 from telegram.ext import *
 from random import *
 
-API = "1982666554:AAE_SP3hvjRTVPAloOfitpExyb0tTpSbIGA"
+API = YOUR BOT API
 updater = Updater (API, use_context = True)
 dp = updater.dispatcher
 
